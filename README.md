@@ -1,6 +1,5 @@
 ## A_Visual_Based_method_for_Teaching_the_children_using_Deep_Learning
-
-This project focus on teaching the young children alphabets, sentences and visual analysis of a particular image using deep learning models such as stable diffusion model and Encoder-Decoder model.
+This project aims to teach young students alphabets, words, and sentences through a visual approach by converting text into engaging images and vice versa. By combining Text-to-Image and Image-to-Text translations, it offers an interactive and immersive learning experience to enhance language acquisition in a fun and effective way.
 
 ## Dependencies
 Install Keras and dependencies<br/>
